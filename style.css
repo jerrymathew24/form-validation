@@ -40,3 +40,9 @@ h1{
     text-align: center;
     color: #fff;
 }
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
